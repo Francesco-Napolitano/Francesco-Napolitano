@@ -71,6 +71,8 @@ Sono pronto ad applicare quanto appreso su progetti reali, contribuendo allo svi
 
 ---
 
+<!--
+
 🇬🇧 :
 
 👋 Welcome to my profile!
@@ -142,7 +144,6 @@ I’m ready to apply what I’ve learned to real-world projects, contributing to
 
 
 
-<!--
 **Francesco-Napolitano/Francesco-Napolitano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
