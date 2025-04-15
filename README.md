@@ -3,17 +3,66 @@
 🇮🇹 : 
 
 👋 Benvenuto/a nel mio profilo!
-Sono Francesco, ho 20 anni e sto completando un percorso full-time con Epicode per diventare Full Stack Developer 👨‍💻. Durante il bootcamp ho lavorato su progetti concreti, utilizzando tecnologie moderne come Java, Spring Boot, React, JavaScript, HTML, CSS e PostgreSQL 🛠️, affrontando tutte le fasi dello sviluppo software, dal back end al front end 🔄.
+Mi chiamo Francesco, ho 20 anni e sto completando un percorso full-time con Epicode per diventare Full Stack Developer 👨‍💻.
 
-🚀 Ho sviluppato un capstone project completo, seguendo metodologie agile, che ho portato avanti perlopiù in autonomia e in parte in team, per quattro settimane, dedicando circa 9 ore al giorno. Questo progetto, consegnato puntualmente e completo al 100% ✅, dimostra la mia costanza, organizzazione e capacità di rispettare obiettivi e scadenze ⏱️. Il codice è disponibile su GitHub 📂.
+---
 
-💡 Sono spinto da una profonda passione per l'informatica, l’innovazione tecnologica e l’apprendimento continuo 📚. Lavoro bene in gruppo e credo nel valore della collaborazione 🤝 per costruire soluzioni efficaci.
-Do il massimo anche sotto pressione 🔥, con attenzione ai dettagli e alla scrittura di codice pulito e manutenibile ✍️.
+💻 Tecnologie & Competenze
+Durante il bootcamp ho lavorato su progetti concreti, utilizzando:
 
-🎯 Attualmente sono aperto a nuove opportunità professionali nel settore dello sviluppo, in particolare in ambienti full-stack e back end.
-Desidero applicare quanto appreso su progetti reali, contribuendo con entusiasmo allo sviluppo di applicazioni solide e scalabili ⚙️📈.
+--> Java & Spring Boot ☕⚙️
 
-✨ Se anche tu sei interessato al mondo dello sviluppo web, del software engineering e della programmazione full stack, entriamo in contatto! 💬💼
+--> React & JavaScript ⚛️
+
+--> HTML, CSS/SCSS 🧩
+
+--> PostgreSQL 🐘
+
+--> Git & GitHub 📂
+
+--> Agile & Team Collaboration 🤝
+
+Ho affrontato tutte le fasi dello sviluppo software, dal back end al front end 🔁.
+
+---
+
+🚀 Capstone Project
+✔️ 4 settimane di sviluppo
+✔️ Circa 9 ore al giorno di lavoro
+✔️ Consegna puntuale e progetto completo al 100%
+✔️ Tecnologie integrate e sviluppo full-stack
+✔️ Parte del codice disponibile su GitHub 🔗
+
+👉 Questo progetto dimostra la mia determinazione, la capacità di organizzarmi, e il mio approccio serio e costante verso gli obiettivi.
+
+🎯 Cosa mi motiva
+
+- 💡 Passione per l’informatica e l’innovazione
+
+- 📚 Apprendimento continuo di nuove tecnologie
+
+- 🔍 Cura per i dettagli e codice pulito
+
+- 🧠 Resilienza e concentrazione anche sotto pressione
+
+- 🤝 Lavoro di squadra e collaborazione
+
+---
+
+🚪 Opportunità professionali
+
+Attualmente sono aperto a nuove opportunità lavorative come:
+
+👨‍💻 Full Stack Developer
+
+🔧 Back-End Developer
+
+Sono pronto ad applicare quanto appreso su progetti reali, contribuendo allo sviluppo di applicazioni solide, moderne e scalabili 🚀
+
+---
+
+✨ Se anche tu sei interessato al mondo dello sviluppo web, del software engineering e della programmazione full stack... entriamo in contatto! 💬💼
+
 
 
 🇬🇧 :
