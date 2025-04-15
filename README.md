@@ -1,8 +1,5 @@
-## Hello There 👋🏻
+## Benvenuto/a nel mio profilo! 👋🏻
 
-🇮🇹 : 
-
-👋 Benvenuto/a nel mio profilo!
 Mi chiamo Francesco, ho 20 anni e sto completando un percorso full-time con Epicode per diventare Full Stack Developer 👨‍💻.
 
 ---
