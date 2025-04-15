@@ -39,6 +39,8 @@ Ho affrontato tutte le fasi dello sviluppo software, dal back end al front end �
 
 👉 Questo progetto dimostra la mia determinazione, la capacità di organizzarmi, e il mio approccio serio e costante verso gli obiettivi.
 
+---
+
 🎯 Cosa mi motiva
 
 - 💡 Passione per l’informatica e l’innovazione
