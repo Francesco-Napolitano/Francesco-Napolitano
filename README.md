@@ -28,9 +28,13 @@ Ho affrontato tutte le fasi dello sviluppo software, dal back end al front end �
 
 🚀 Capstone Project
 ✔️ 4 settimane di sviluppo
+
 ✔️ Circa 9 ore al giorno di lavoro
+
 ✔️ Consegna puntuale e progetto completo al 100%
+
 ✔️ Tecnologie integrate e sviluppo full-stack
+
 ✔️ Parte del codice disponibile su GitHub 🔗
 
 👉 Questo progetto dimostra la mia determinazione, la capacità di organizzarmi, e il mio approccio serio e costante verso gli obiettivi.
