@@ -5,6 +5,7 @@ Mi chiamo Francesco, ho 20 anni e sto completando un percorso full-time con Epic
 ---
 
 💻 Tecnologie & Competenze
+
 Durante il bootcamp ho lavorato su progetti concreti, utilizzando:
 
 --> Java & Spring Boot ☕⚙️
@@ -24,6 +25,7 @@ Ho affrontato tutte le fasi dello sviluppo software, dal back end al front end �
 ---
 
 🚀 Capstone Project
+
 ✔️ 4 settimane di sviluppo
 
 ✔️ Circa 9 ore al giorno di lavoro
