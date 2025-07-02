@@ -1,12 +1,12 @@
 ## Benvenuto/a nel mio profilo! 👋🏻
 
-Mi chiamo Francesco, ho 20 anni e sto completando un percorso full-time con Epicode per diventare Full Stack Developer 👨‍💻.
+Mi chiamo Francesco, ho 20 anni e sto completando un percorso full-time con l'azienda Betaom presso la loro Academy dii Java 👨‍💻.
 
 ---
 
 💻 Tecnologie & Competenze
 
-Durante il bootcamp ho lavorato su progetti concreti, utilizzando:
+Durante il mio passato bootcamp per Epicode ho lavorato su progetti concreti, utilizzando:
 
 --> Java & Spring Boot ☕⚙️
 
